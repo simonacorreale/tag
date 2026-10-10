@@ -6,7 +6,7 @@ source: "brief"
 author: "Simona Correale"
 channel: web
 method: format specification
-tags: [ingestion, format, metadata, template]
+tags: [brief, metadata, template]
 confidence: low
 grade: tertiary
 status: complete

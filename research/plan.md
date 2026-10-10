@@ -8,7 +8,7 @@ channel: internal
 method: research planning
 tags: [plan, grocery-delivery, activities, one-week]
 confidence: medium
-grade: tertiary
+grade: primary
 status: in-progress
 related: [brief.md, desk.md, interview.md, index.md]
 ---

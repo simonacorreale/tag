@@ -8,7 +8,7 @@ channel: web
 method: desk research
 tags: [desk-research, grocery-delivery, substitutions, delivery-windows, esselunga, market]
 confidence: medium
-grade: secondary
+grade: tertiary
 status: in-progress
 related: [brief.md, plan.md, interview.md, index.md]
 ---

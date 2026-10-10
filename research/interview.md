@@ -8,7 +8,7 @@ channel: in-person / video call
 method: semi-structured interview
 tags: [interview, grocery-delivery, basket, substitutions, delivery, freshness]
 confidence: low
-grade: primary
+grade: secondary
 status: planned
 related: [brief.md, plan.md, desk.md, index.md]
 ---
