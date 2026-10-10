@@ -6,7 +6,7 @@ source: "web sources, see Sources section"
 author: "Simona Correale"
 channel: web
 method: desk research
-tags: [desk-research, grocery-delivery, substitutions, delivery-windows, esselunga, market]
+tags: [desk-research, grocery-delivery, substitutions, delivery-windows, italian-supermarkets, market]
 confidence: medium
 grade: tertiary
 status: in-progress
@@ -16,6 +16,8 @@ related: [brief.md, plan.md, interview.md, index.md]
 # Desk research — Redesigning grocery delivery
 
 Secondary evidence on the three moments named in the [brief](brief.md): building the basket, handling substitutions, receiving the order. The desk research part of the [research plan](plan.md).
+
+Scope: online grocery delivery by supermarket chains in general. Esselunga is the example named in the brief, not the subject of the research. Findings about a single chain are labelled with its name.
 
 ## How to read this file
 
@@ -28,7 +30,7 @@ Secondary evidence on the three moments named in the [brief](brief.md): building
 1. Substitutions are the best documented pain point of online grocery. They are frequent, often unsatisfying, and the interfaces for controlling them are hard to use.
 2. Shoppers accept substitutions in principle but want control over specific items.
 3. Evidence on delivery windows and on receiving the order is thin in this pass. It is a gap, not a sign that those moments work well.
-4. Almost nothing found so far describes how Esselunga handles unavailable items.
+4. Almost nothing found so far describes how Italian supermarket chains handle unavailable items. The substitution evidence comes from the UK and the US.
 
 ## Findings
 
@@ -39,13 +41,16 @@ Secondary evidence on the three moments named in the [brief](brief.md): building
 | D1 | Online food and grocery was worth about 4.9 billion euros in 2025, up about 7% on the year before. | Italy | S1 | medium, *to verify* |
 | D2 | In 2026 the category is reported to grow about 5 to 6%, in line with product e-commerce overall (about 42.6 billion euros). | Italy | S2, S3 | medium, *to verify* |
 
-### Context: Esselunga's service
+### Context: Italian supermarket services
 
 | ID | Finding | Market | Source | Confidence |
 |----|---------|--------|--------|------------|
-| D3 | The flow is: fill the basket on the site or app, then choose a delivery window. A Fìdaty card is required. | Italy | S4 | low, source may be dated |
-| D4 | Delivery windows are reported as Monday to Saturday 7:00 to 23:00 and Sunday 8:30 to 20:00. | Italy | S4 | low, source may be dated |
-| D5 | Besides home delivery there is pickup ("Clicca e Vai") and locker pickup in some stores. | Italy | S5 | low, *to verify* |
+| D3 | Esselunga, as an example. The flow is: fill the basket on the site or app, then choose a delivery window. A Fìdaty card is required. | Italy | S4 | low, source may be dated |
+| D4 | Esselunga: delivery windows are reported as Monday to Saturday 7:00 to 23:00 and Sunday 8:30 to 20:00. | Italy | S4 | low, source may be dated |
+| D5 | Esselunga: besides home delivery there is pickup ("Clicca e Vai") and locker pickup in some stores. | Italy | S5 | low, *to verify* |
+| D20 | Two models coexist: chains that run their own online service, and marketplaces such as Everli, where a personal shopper buys in the store of a partner chain (Coop, Conad, Lidl and others are reported). | Italy | S11 | low, source may be dated |
+| D21 | A consumer association survey scores online grocery services between 68 and 76 out of 100 across eight chains, a narrow range. Esselunga, Eurospin and Coop are at the top. | Italy | S12 | medium, *to verify* |
+| D22 | That score reflects site navigation, product availability and delivery reliability, so availability is already a criterion Italian shoppers are asked to judge. | Italy | S12 | medium, *to verify* |
 
 ### Moment: handling substitutions
 
@@ -77,13 +82,14 @@ No specific findings yet. See Gaps.
 
 ## Competitor practice
 
-To be completed on 2026-10-11: a first-hand walkthrough of Esselunga a Casa, and one more service from its help pages. Fill one row per service.
+To be completed on 2026-10-11: a first-hand walkthrough of one chain's own service, and two more services from their help pages. Include at least one marketplace. The names below are candidates, not a fixed list.
 
 | Service | Basket building | Substitution control | Substitution notice | Delivery windows | At the door |
 |---------|-----------------|----------------------|---------------------|------------------|-------------|
-| Esselunga a Casa | | | | | |
-| | | | | | |
-| | | | | | |
+| A chain's own service (for example Esselunga a Casa) | | | | | |
+| A second chain (for example Coop) | | | | | |
+| A marketplace (for example Everli) | | | | | |
+| A foreign reference (for example Ocado or Tesco) | | | | | |
 
 ## Implications for the design
 
@@ -96,8 +102,9 @@ These are hypotheses to test in the [interviews](interview.md), not conclusions.
 
 ## Gaps
 
-- How Esselunga a Casa handles unavailable items today: preference options, notice, refund.
-- Current delivery fees, minimum spend and window availability for Esselunga.
+- How Italian supermarket services handle unavailable items today: preference options, notice, refund.
+- Whether substitution works differently when a marketplace shopper picks the order instead of the chain.
+- Current delivery fees, minimum spend and window availability across Italian services.
 - Research on choosing delivery windows and on missed or late deliveries.
 - Research on freshness and on trust in someone else picking fresh produce.
 - Research on basket building: recurring lists, reorder, time spent.
@@ -118,3 +125,5 @@ These are hypotheses to test in the [interviews](interview.md), not conclusions.
 | S8 | RetailWire, "Substitutions improved online grocery" — https://retailwire.com/discussion/substitutions-improved-online-grocery | Trade press, cites vendor surveys |
 | S9 | Which?, supermarket substitutions survey — https://www.which.co.uk/policy-and-insight/article/sanitary-towels-instead-of-sandwich-wraps-which-reveals-the-worst-supermarkets-for-substitutions-avmh87E2rQmk | Consumer survey |
 | S10 | Grocery Dive, substitution alerts — https://www.grocerydive.com/news/grocers-often-miss-chances-to-alert-shoppers-about-online-substitutions-su/622775/ | Trade press |
+| S11 | Money.it, Everli online grocery — https://www.money.it/Everli-spesa-online-come-funziona-costi-citta | Press |
+| S12 | GreenMe, best supermarkets for online grocery according to Altroconsumo — https://www.greenme.it/lifestyle/spesa-sostenibile/migliori-supermercati-spesa-online/ | Press, reporting a consumer association survey |

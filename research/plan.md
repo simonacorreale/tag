@@ -32,7 +32,7 @@ By the end of the week the research must say which moment to design for and whic
 | RQ3 | What makes a substitution acceptable or unacceptable? | Desk research, Interviews |
 | RQ4 | How do people choose a delivery window and what goes wrong on delivery day? | Interviews, Observation 2 |
 | RQ5 | How do people judge freshness when they cannot pick the product themselves? | Interviews, Observation 2 |
-| RQ6 | How do Esselunga and comparable services handle the three moments? | Desk research |
+| RQ6 | How do supermarket chains' online services handle the three moments today? | Desk research |
 
 Working hypothesis: substitutions are the moment with the most evidence of friction (see [desk.md](desk.md)). It stays open until the synthesis on 2026-10-15.
 
@@ -43,10 +43,10 @@ Output: [desk.md](desk.md). Status: first pass done on 2026-10-10, needs review.
 Remaining work, limited to one day:
 
 1. Check the findings marked *to verify* against their original sources. Drop the ones that cannot be confirmed.
-2. Walk through one order flow on Esselunga a Casa, up to the payment step, and fill the Esselunga row of the competitor table. This answers the main gap: how unavailable items are handled today.
-3. Fill one more row of the competitor table from help pages, without placing an order.
+2. Walk through one order flow on one chain's own service (for example Esselunga a Casa), up to the payment step, and fill its row of the competitor table. This answers the main gap: how unavailable items are handled today.
+3. Fill two more rows of the competitor table from help pages, without placing an order. Include at least one marketplace such as Everli.
 
-Not in this week: a full competitor benchmark, and research on the gaps listed in desk.md beyond the Esselunga walkthrough.
+Not in this week: a full competitor benchmark, and research on the gaps listed in desk.md beyond the service walkthrough.
 
 ## Interviews
 
@@ -79,7 +79,7 @@ O2 depends on a participant having a delivery in the week. Ask at recruitment. I
 | Day | Date | Work |
 |-----|------|------|
 | Sat | 2026-10-10 | Brief, plan, first pass of desk research. Start recruiting 3 participants. |
-| Sun | 2026-10-11 | Desk research: verify sources, Esselunga walkthrough. Confirm participants. |
+| Sun | 2026-10-11 | Desk research: verify sources, service walkthrough. Confirm participants. |
 | Mon | 2026-10-12 | Interview P1. Observation O1. Write up. |
 | Tue | 2026-10-13 | Interview P2. Write up. |
 | Wed | 2026-10-14 | Interview P3. Observation O2. Write up. |
@@ -106,4 +106,4 @@ O2 depends on a participant having a delivery in the week. Ask at recruitment. I
 | Recruiting 3 participants in two days | Start on 2026-10-10. Use personal contacts. Accept video calls. |
 | No delivery to observe during the week | Fallback for O2 described above |
 | Three interviews are too few to choose a moment with confidence | Combine with desk research. State the confidence level in the synthesis. |
-| Most published evidence is from the UK and the US | Use the interviews and the Esselunga walkthrough to check what holds in Italy |
+| Most published evidence is from the UK and the US | Use the interviews and the service walkthrough to check what holds in Italy |

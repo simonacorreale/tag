@@ -14,17 +14,16 @@ All files are in the `research/` folder.
 
 ## Notes
 
-- `desk.md` — desk research note, online grocery substitutions, receiving the order and the Italian market, 19 findings from 10 sources, 2026-10-10 — **needs-review** (most findings pending verification, competitor table empty, no findings yet on basket building) · secondary · medium confidence
-- `interview.md` — interview guide (22 questions, 4 hypotheses) and blank record for 3 weekly online grocery shoppers, 2026-10-10 — **planned** (no interviews held yet) · primary · low confidence
+- `desk.md` — desk research note, online grocery substitutions, receiving the order and the Italian market, 22 findings from 12 sources, 2026-10-10 — **needs-review** (most findings pending verification, competitor table empty, no findings yet on basket building) · secondary · medium confidence
+- `interview.md` — interview guide (22 questions, 4 hypotheses) and interview notes; one interview recorded: Federica (P1), couple, Esselunga online 2 to 3 times a month, 2026-10-10 — **in-progress** (P1 complete, six questions not asked; two interviews still to hold) · primary · low confidence
 
 ## Transcripts
 
-- None yet. One raw transcript file per interview, never edited.
+- `interview-transcript.md` — raw automatic transcript of the Federica (P1) interview, two recordings, in Italian, 2026-10-10 — **raw, never edited**
 
 ## Scheduled — not yet collected
 
-- Desk research — source verification and Esselunga a Casa walkthrough — 2026-10-11
-- Interview — P1, family with children, weekly order — 2026-10-12
+- Desk research — source verification and walkthrough of supermarket online services — 2026-10-11
 - Observation — P1 building a real weekly basket — 2026-10-12, after the interview
 - Interview — P2, single or couple, substitution or missing item in the last three months — 2026-10-13
 - Interview — P3, shops for an older relative or stopped ordering online — 2026-10-14
