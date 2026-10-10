@@ -7,7 +7,7 @@ author: "Simona Correale"
 channel: web
 method: format specification
 tags: [ingestion, format, metadata, template]
-confidence: high
+confidence: low
 grade: tertiary
 status: complete
 related: [plan.md, interview.md, desk.md, index.md]
