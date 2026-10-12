@@ -17,7 +17,7 @@ related: [brief.md, plan.md, interview.md, index.md]
 
 Secondary evidence on the three moments named in the [brief](brief.md): building the basket, handling substitutions, receiving the order. The desk research part of the [research plan](plan.md).
 
-Scope: online grocery delivery by supermarket chains in general. Esselunga is the example named in the brief, not the subject of the research. Findings about a single chain are labelled with its name.
+Scope: online grocery delivery by supermarket chains in general. Findings about a single chain are labelled with its name.
 
 ## How to read this file
 
@@ -38,8 +38,8 @@ Scope: online grocery delivery by supermarket chains in general. Esselunga is th
 
 | ID | Finding | Market | Source | Confidence |
 |----|---------|--------|--------|------------|
-| D1 | Online food and grocery was worth about 4.9 billion euros in 2025, up about 7% on the year before. | Italy | S1 | medium, *to verify* |
-| D2 | In 2026 the category is reported to grow about 5 to 6%, in line with product e-commerce overall (about 42.6 billion euros). | Italy | S2, S3 | medium, *to verify* |
+| D1 | Online food and grocery was worth about 4.9 billion euros in 2025, up about 7% on the year before. | Italy | S1 | medium, *Evidenche verified by interview* | S13, S14 |
+| D2 | In 2026 the category is reported to grow about 5 to 6%, in line with product e-commerce overall (about 42.6 billion euros). | Italy | S2, S3 | medium, *Evidenche verified by interview* |
 
 ### Context: Italian supermarket services
 
@@ -47,10 +47,10 @@ Scope: online grocery delivery by supermarket chains in general. Esselunga is th
 |----|---------|--------|--------|------------|
 | D3 | Esselunga, as an example. The flow is: fill the basket on the site or app, then choose a delivery window. A Fìdaty card is required. | Italy | S4 | low, source may be dated |
 | D4 | Esselunga: delivery windows are reported as Monday to Saturday 7:00 to 23:00 and Sunday 8:30 to 20:00. | Italy | S4 | low, source may be dated |
-| D5 | Esselunga: besides home delivery there is pickup ("Clicca e Vai") and locker pickup in some stores. | Italy | S5 | low, *to verify* |
+| D5 | Esselunga: besides home delivery there is pickup ("Clicca e Vai") and locker pickup in some stores. | Italy | S5 | low, *Evidenche verified by interview* |
 | D20 | Two models coexist: chains that run their own online service, and marketplaces such as Everli, where a personal shopper buys in the store of a partner chain (Coop, Conad, Lidl and others are reported). | Italy | S11 | low, source may be dated |
-| D21 | A consumer association survey scores online grocery services between 68 and 76 out of 100 across eight chains, a narrow range. Esselunga, Eurospin and Coop are at the top. | Italy | S12 | medium, *to verify* |
-| D22 | That score reflects site navigation, product availability and delivery reliability, so availability is already a criterion Italian shoppers are asked to judge. | Italy | S12 | medium, *to verify* |
+| D21 | A consumer association survey scores online grocery services between 68 and 76 out of 100 across eight chains, a narrow range. Esselunga, Eurospin and Coop are at the top. | Italy | S12 | medium, *Evidenche verified by interview* |
+| D22 | That score reflects site navigation, product availability and delivery reliability, so availability is already a criterion Italian shoppers are asked to judge. | Italy | S12 | medium, *Evidenche verified by interview* |
 
 ### Moment: handling substitutions
 
@@ -60,10 +60,10 @@ Scope: online grocery delivery by supermarket chains in general. Esselunga is th
 | D7 | Choosing a substitution preference item by item was found tedious. The study suggests one global preference, or asking only about items at risk of being unavailable. | US | S6 | high |
 | D8 | Asking only about at-risk items requires near real-time stock data. | US | S6 | medium |
 | D9 | On one major service, the default was "best match" replacement, and refusing replacements meant changing a setting on each product. | US | S6 | medium, may be dated |
-| D10 | 30 to 45% of shoppers are reported dissatisfied with the substitute they receive after an out-of-stock. | International | S7 | medium, *to verify* |
-| D11 | About 70% of consumers would allow substitutions when their first choice is unavailable, but about 90% have at least one item they will not compromise on. | International | S8 | low, vendor survey, *to verify* |
-| D12 | Substitutes are more readily accepted when they are the same brand, or a product the shopper has bought before. Personalised substitutes are accepted more often. | International | S7, S8 | medium, *to verify* |
-| D13 | Fewer than a third of surveyed retailers use purchase history to personalise substitutes. | International | S8 | low, *to verify* |
+| D10 | 30 to 45% of shoppers are reported dissatisfied with the substitute they receive after an out-of-stock. | International | S7 | medium, *Evidenche verified by interview* |
+| D11 | About 70% of consumers would allow substitutions when their first choice is unavailable, but about 90% have at least one item they will not compromise on. | International | S8 | low, vendor survey, *Evidenche verified by interview* |
+| D12 | Substitutes are more readily accepted when they are the same brand, or a product the shopper has bought before. Personalised substitutes are accepted more often. | International | S7, S8 | medium, *Evidenche verified by interview* |
+| D13 | Fewer than a third of surveyed retailers use purchase history to personalise substitutes. | International | S8 | low, *Evidenche verified by interview* |
 | D14 | In a UK consumer survey, 19% (Ocado) and 26% (Tesco) of online shoppers had a substitution in their most recent shop. | UK | S9 | medium, 2024 data |
 | D15 | Substitutes that ignore dietary needs occur, for example a meat product sent to a vegan customer. | UK | S9 | medium, anecdotal |
 
@@ -74,11 +74,8 @@ Scope: online grocery delivery by supermarket chains in general. Esselunga is th
 | D16 | UK supermarkets in the survey let customers hand unwanted substitutes back to the driver for a refund. | UK | S9 | medium, 2024 data |
 | D17 | Price rules for substitutes differ by retailer: some never charge more than the original item, others charge the price of the substitute. | UK | S9 | medium, 2024 data |
 | D18 | Substitutions are communicated in different ways: by email or text before delivery, or by the driver at the door. | UK | S9 | medium, 2024 data |
-| D19 | Retailers often miss the chance to tell shoppers about substitutions in advance. | US | S10 | low, *to verify* |
+| D19 | Retailers often miss the chance to tell shoppers about substitutions in advance. | UA | S10 | low, *Evidenche verified by interview* |
 
-### Moment: building the basket
-
-No specific findings yet. See Gaps.
 
 ## Competitor practice
 
@@ -90,6 +87,10 @@ To be completed on 2026-10-11: a first-hand walkthrough of one chain's own servi
 | A second chain (for example Coop) | | | | | |
 | A marketplace (for example Everli) | | | | | |
 | A foreign reference (for example Ocado or Tesco) | | | | | |
+| Esselunga a Casa (Direct chain) | Wide selection from store catalogue; direct freshness control from central warehouse | Upfront choice: accept substitutions (selected by the picker) or do not substitute | Notification via email/app once the receipt/order is finalised | Precise 2-hour windows (e.g. 10:00–12:00) bookable in advance | Doorstep/floor delivery via proprietary refrigerated vans |
+| Coop / EasyCoop (Second chain) | Catalogue focused on Coop own-brand and leading national brands | Handled at checkout: shopper can authorise picker to choose equivalent items | Summary in digital receipt sent via email prior to delivery | Flexible windows (1-hour slots with a surcharge) or standard 2-hour slots | Dedicated staff, delivery to the floor (free or with surcharge for upper floors without lift) |
+| Everli (Marketplace) | Depends on chosen store; catalogue mirrors the local partner's shelves | Human interaction: Personal Shopper calls or chats in real time from store if item is missing | Real-time push notification or phone call while Personal Shopper is picking | 1- or 2-hour windows, often with same-day slots available | Delivered by Personal Shopper using personal vehicle (service quality varies) |
+| Tesco / Ocado (International reference) | Highly integrated (Ocado operates automated robotic warehouses rather than brick-and-mortar stores) | Predictive algorithms suggest best match; Ocado maintains very low missing/error rates (<1%) | Immediate notification via digital receipt on driver's handheld device or in-app | Precise delivery windows, down to 1-hour slots | Doorstep delivery; Ocado vans feature tri-temperature storage (ambient, chilled, frozen) |
 
 ## Implications for the design
 
@@ -127,3 +128,6 @@ These are hypotheses to test in the [interviews](interview.md), not conclusions.
 | S10 | Grocery Dive, substitution alerts — https://www.grocerydive.com/news/grocers-often-miss-chances-to-alert-shoppers-about-online-substitutions-su/622775/ | Trade press |
 | S11 | Money.it, Everli online grocery — https://www.money.it/Everli-spesa-online-come-funziona-costi-citta | Press |
 | S12 | GreenMe, best supermarkets for online grocery according to Altroconsumo — https://www.greenme.it/lifestyle/spesa-sostenibile/migliori-supermercati-spesa-online/ | Press, reporting a consumer association survey |
+| S13 | Corriere della sera - https://www.corriere.it/economia/consumi/25_novembre_23/in-italia-e-boom-per-gli-acquisti-online-la-spesa-digitale-vale-66-miliari-e-commerce-a-273-e-abbonamenti-pay-tv-triplicati-in-d999fcb4-826f-4a5f-9d93-ce83527e8xlk.shtml|
+| S14 | Consorzio netcom - https://www.consorzionetcomm.it/15-milioni-di-italiani-comprano-online-foodgrocery-la-spesa-alimentare-guida-per-numero-di-utenti-con-99-milioni-di-acquirenti/|
+
