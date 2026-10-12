@@ -9,7 +9,7 @@ method: desk research
 tags: [desk-research, grocery-delivery, substitutions, delivery-windows, italian-supermarkets, market]
 confidence: medium
 grade: tertiary
-status: in-progress
+status: complete
 related: [brief.md, plan.md, interview.md, index.md]
 ---
 
