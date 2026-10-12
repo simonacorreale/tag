@@ -83,10 +83,6 @@ To be completed on 2026-10-11: a first-hand walkthrough of one chain's own servi
 
 | Service | Basket building | Substitution control | Substitution notice | Delivery windows | At the door |
 |---------|-----------------|----------------------|---------------------|------------------|-------------|
-| A chain's own service (for example Esselunga a Casa) | | | | | |
-| A second chain (for example Coop) | | | | | |
-| A marketplace (for example Everli) | | | | | |
-| A foreign reference (for example Ocado or Tesco) | | | | | |
 | Esselunga a Casa (Direct chain) | Wide selection from store catalogue; direct freshness control from central warehouse | Upfront choice: accept substitutions (selected by the picker) or do not substitute | Notification via email/app once the receipt/order is finalised | Precise 2-hour windows (e.g. 10:00–12:00) bookable in advance | Doorstep/floor delivery via proprietary refrigerated vans |
 | Coop / EasyCoop (Second chain) | Catalogue focused on Coop own-brand and leading national brands | Handled at checkout: shopper can authorise picker to choose equivalent items | Summary in digital receipt sent via email prior to delivery | Flexible windows (1-hour slots with a surcharge) or standard 2-hour slots | Dedicated staff, delivery to the floor (free or with surcharge for upper floors without lift) |
 | Everli (Marketplace) | Depends on chosen store; catalogue mirrors the local partner's shelves | Human interaction: Personal Shopper calls or chats in real time from store if item is missing | Real-time push notification or phone call while Personal Shopper is picking | 1- or 2-hour windows, often with same-day slots available | Delivered by Personal Shopper using personal vehicle (service quality varies) |
