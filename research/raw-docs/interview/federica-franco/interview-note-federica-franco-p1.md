@@ -1,22 +1,22 @@
 ---
-title: "Interview notes — Federica (P1)"
+title: "Interview notes — P1 Federica Franco"
 date: 2026-10-10
 activity: notes
 source: "user interview"
 author: "Simona Correale"
 channel: video call
 method: semi-structured interview
-tags: [notes, interview, grocery-delivery, p1]
+tags: [interview, interview-note, grocery-delivery, p1, basket-building, substitutions, order-receiving, delivery-windows, freshness, contradiction]
 confidence: high
 grade: primary
 status: complete
-related: [interview-transcript-p1.md, interview.md, plan.md]
+related: [index.md, plan/plan.md, desk/desk.md, interview/interview.md, interview/interview-transcript-p1.md, interview/interview-results-federica-franco-p1.md]
 ---
 
-# Interview notes — Federica (P1)
+# Interview notes — P1 Federica Franco
 
 ## Profilo partecipante
-- **Nome / ID**: Federica (P1)
+- **Nome / ID**: P1 Federica Franco
 - **Nucleo familiare**: 2 persone (lei e il partner Michele).
 - **Contesto**: Precedentemente residente a Milano senza auto (alta dipendenza dalla spesa online); attualmente con auto, frequenza online ridotta ma ancora presente.
 
@@ -64,11 +64,20 @@ related: [interview-transcript-p1.md, interview.md, plan.md]
 2. **Politica di rimborso trasparente**: Storno immediato del prodotto mancante senza dover attendere rimborsi successivi.
 3. **Riprogettazione UI carrello e catalogo**: Migliorare la leggibilità dell'interfaccia (layout più pulito) e semplificare l'inserimento quantità per i prodotti freschi.
 
+## Signals
+
+- Shared pain point, substitutions: `desk/desk.md` reports the same pattern at scale in D11 and D12, where shoppers accept most substitutes, protect a few items, and judge a substitute by its brand.
+- Shared pain point, substitutions: `interview/interview.md` turns this interview into the cross-interview synthesis and tests it against hypotheses H1 to H4.
+- Shared pain point, stock accuracy: the fix P1 asks for, an app whose stock follows the store, matches finding D8 in `desk/desk.md`.
+- Contradiction with `desk/desk.md`: P1 says the tick box authorising substitutions was mandatory, with no way to refuse; the desk competitor table says Esselunga a Casa offers an upfront choice to accept substitutions or not. Both versions are kept. P1 is recalling a past version of the app; the table gives no source.
+- Contradiction with `desk/desk.md`: P1 says the order is picked from the nearest store; the desk competitor table says Esselunga a Casa controls freshness from a central warehouse. Both versions are kept.
+- Source: this note derives from the transcript `interview/interview-transcript-p1.md`.
+
 ## Interview record
 
-### P1 — Federica — 2026-10-10
+### P1 Federica Franco — 2026-10-10
 
-**Profile:** Federica, 30. Shops for herself and her partner. Used Esselunga online 2 to 3 times a month when she lived in Milan without a car. She now has a car and orders online less often. Video call.
+**Profile:** P1 Federica Franco, 30. Shops for herself and her partner. Used Esselunga online 2 to 3 times a month when she lived in Milan without a car. She now has a car and orders online less often. Video call.
 
 **Coverage:** the whole guide, in two recordings (questions 1 to 9, then 11 to 22). Questions 7, 10, 12, 14, 17 and 18 were not asked; where another answer touches them, this is noted below. Most answers describe her past habit in Milan, not a recent order, and she does not remember which item was last substituted.
 

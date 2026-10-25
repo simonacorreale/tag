@@ -6,11 +6,11 @@ source: "research plan"
 author: "Simona Correale"
 channel: internal
 method: research planning
-tags: [plan, grocery-delivery, activities, one-week]
+tags: [plan, grocery-delivery, desk-research, interview, observation]
 confidence: medium
 grade: primary
 status: in-progress
-related: [brief.md, desk.md, interview.md, index.md]
+related: [index.md, brief.md, desk/desk.md, interview/interview.md]
 ---
 
 # Research plan — Redesigning grocery delivery

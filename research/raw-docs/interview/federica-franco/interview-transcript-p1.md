@@ -6,11 +6,11 @@ source: "user interview, automatic transcription (TurboScribe)"
 author: "Simona Correale"
 channel: video call
 method: semi-structured interview
-tags: [transcript, interview, raw, grocery-delivery]
+tags: [interview, interview-transcript, grocery-delivery, p1, raw]
 confidence: medium
 grade: primary
 status: raw
-related: [interview.md, plan.md]
+related: [index.md, plan/plan.md, interview/interview.md, interview/interview-note-p1.md]
 ---
 
 # Interview transcript — Federica (P1)

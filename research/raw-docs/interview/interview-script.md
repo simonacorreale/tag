@@ -6,16 +6,16 @@ source: "user interviews"
 author: "Simona Correale"
 channel: in-person / video call
 method: semi-structured interview
-tags: [interview, grocery-delivery, basket, substitutions, delivery, freshness]
+tags: [interview, interview-guide, grocery-delivery, basket-building, substitutions, order-receiving, delivery-windows, freshness, contradiction]
 confidence: low
 grade: secondary
 status: in-progress
-related: [brief.md, plan.md, desk.md, index.md, interview-transcript.md]
+related: [index.md, brief.md, plan/plan.md, desk/desk.md, interview/interview-note-federica-franco-p1.md, interview/interview-transcript-p1.md]
 ---
 
 # Interviews — Redesigning grocery delivery
 
-Interview guide and record for the 3 interviews in the [research plan](plan.md). One interview has been held so far: P1, Federica, on 2026-10-10. It covers the whole guide in two recordings, except questions 7, 10, 12, 14, 17 and 18, which were not asked.
+Interview guide and record for the 3 interviews in the [research plan](plan.md). One interview has been held so far: P1 Federica Franco, on 2026-10-10. It covers the whole guide in two recordings, except questions 7, 10, 12, 14, 17 and 18, which were not asked.
 
 The interview was held in Italian. Everything in this file is in English: quotes and answers are translations. The original Italian wording is in the raw transcript, [interview-transcript.md](interview-transcript.md).
 
@@ -34,7 +34,7 @@ Understand how people who do a large weekly grocery shop online experience the t
 
 | Code | Date | Household | Service used | Order frequency | Channel | Notes |
 |------|------|-----------|--------------|-----------------|---------|-------|
-| P1 — Federica, 30 | 2026-10-10 | Couple, two people | Esselunga online; Glovo a couple of times | 2 to 3 times a month when she lived in Milan; less now | Video call | Complete, two recordings. Six questions not asked |
+| P1 Federica Franco, 30 | 2026-10-10 | Couple, two people | Esselunga online; Glovo a couple of times | 2 to 3 times a month when she lived in Milan; less now | Video call | Complete, two recordings. Six questions not asked |
 | P2 | 2026-10-13 | | | | | |
 | P3 | 2026-10-14 | | | | | |
 
@@ -158,3 +158,10 @@ Provisional: based on one interview (P1). To be revised after P2 and P3. "Streng
 5. One gap remains for all three interviews: how and when the shopper learns about a substitution. Ask question 12 explicitly to P2 and P3.
 
 These rest on one participant who is recalling a past habit. They agree with the desk research on H1 and differ on H2 (see [desk.md](desk.md), D7 and D11).
+
+## Signals
+
+- Shared pain point, substitutions: `interview/interview-note-federica-franco-p1.md` is the full record of the P1 interview that every row of the synthesis above rests on.
+- Shared pain point, substitutions: `desk/desk.md` supplies findings D7, D9, D11, D12, D18 and D19, on which hypotheses H1 to H4 are built.
+- Contradiction with `desk/desk.md`: the synthesis says substitution consent at Esselunga is one mandatory tick box with no way to refuse; the desk competitor table says Esselunga a Casa offers an upfront choice to accept substitutions or not. Both versions are kept.
+- Contradiction with `desk/desk.md`: insight 4 assumes the order is picked from a store; the desk competitor table says Esselunga a Casa controls freshness from a central warehouse. Both versions are kept.

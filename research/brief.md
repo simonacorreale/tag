@@ -6,11 +6,11 @@ source: "brief"
 author: "Simona Correale"
 channel: web
 method: format specification
-tags: [brief, metadata, template]
+tags: [brief, grocery-delivery, basket-building, substitutions, order-receiving]
 confidence: low
 grade: tertiary
 status: complete
-related: [plan.md, interview.md, desk.md, index.md]
+related: [index.md, plan/plan.md, desk/desk.md, interview/interview.md]
 ---
 
 # Redesigning grocery delivery

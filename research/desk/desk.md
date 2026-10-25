@@ -6,11 +6,11 @@ source: "web sources, see Sources section"
 author: "Simona Correale"
 channel: web
 method: desk research
-tags: [desk-research, grocery-delivery, substitutions, delivery-windows, italian-supermarkets, market]
+tags: [desk-research, grocery-delivery, substitutions, order-receiving, delivery-windows, competitors, market, contradiction]
 confidence: medium
 grade: tertiary
 status: complete
-related: [brief.md, plan.md, interview.md, index.md]
+related: [index.md, brief.md, plan/plan.md, interview/interview.md, interview/interview-note-federica-franco-p1.md]
 ---
 
 # Desk research — Redesigning grocery delivery
@@ -96,6 +96,14 @@ To be completed on 2026-10-11: a first-hand walkthrough of one chain's own servi
 - The time of notice matters: before delivery the shopper can still decide, at the door they can only accept or refuse (D16, D18, D19).
 
 These are hypotheses to test in the [interviews](interview.md), not conclusions.
+
+## Signals
+
+- Shared pain point, substitutions: `interview/interview-note-federica-franco-p1.md` reports the same pattern as D11 and D12 from one shopper, who accepts most substitutes, protects a few items, and judges a substitute by its brand.
+- Shared pain point, substitutions: `interview/interview.md` builds its hypotheses H1 to H4 on D7, D9, D11, D12, D18 and D19, and its synthesis reports how the first interview answers them.
+- Shared pain point, stock accuracy: D8 (near real-time stock data) matches the fix P1 asks for in `interview/interview-note-federica-franco-p1.md`, an app whose stock follows the store.
+- Contradiction with `interview/interview-note-federica-franco-p1.md` and `interview/interview.md`: the competitor table says Esselunga a Casa offers an upfront choice to accept substitutions or not; P1 says the tick box authorising substitutions was mandatory, with no way to refuse. Both versions are kept. The table gives no source; P1 is recalling a past version of the app.
+- Contradiction with `interview/interview-note-federica-franco-p1.md` and `interview/interview.md`: the competitor table says Esselunga a Casa controls freshness from a central warehouse; P1 says the order is picked from the nearest store. Both versions are kept.
 
 ## Gaps
 
