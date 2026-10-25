@@ -2,19 +2,20 @@
 
 ## research/
 
-- brief.md — brief · complete · tertiary · low
+- brief.md — plan · complete · tertiary · low
+- plan.md — plan · draft · primary · medium
 
-## research/plan/
+## research/notes/
 
-- plan.md — plan · in-progress · primary · medium
+- 2026-10-10-interview-note-federica-franco-p1.md — interview · complete · primary · high
+- 2026-10-25-interview-note-luca-volpi-p2.md — interview · complete · primary · high
 
-## research/desk/
+## research/notes/all-results/
 
-- desk.md — desk · complete · tertiary · medium
-
-## research/interview/
-
-- interview-note-federica-franco-p1.md — notes · complete · primary · high
-- interview-transcript-p1.md — transcript · raw · primary · medium
-- interview.md — interview · in-progress · secondary · low
-- interview-results-federica-franco-p1.md — results · complete · secondary · medium
+- 2026-10-10-desk-research-results-coop-easycoop.md — desk-research · complete · secondary · low
+- 2026-10-10-desk-research-results-esselunga-a-casa.md — desk-research · complete · secondary · low
+- 2026-10-10-desk-research-results-everli.md — desk-research · complete · secondary · low
+- 2026-10-10-desk-research-results-tesco-ocado.md — desk-research · complete · secondary · medium
+- 2026-10-10-desk-research-results.md — desk-research · complete · secondary · medium
+- 2026-10-10-interview-results-federica-franco-p1.md — interview · complete · secondary · medium
+- 2026-10-25-interview-results-luca-volpi-p2.md — interview · complete · secondary · medium

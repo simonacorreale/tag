@@ -1,7 +1,7 @@
 ---
 title: "Redesigning grocery delivery"
 date: 2026-10-10
-activity: brief
+activity: plan
 source: "brief"
 author: "Simona Correale"
 channel: web
@@ -10,7 +10,7 @@ tags: [brief, grocery-delivery, basket-building, substitutions, order-receiving]
 confidence: low
 grade: tertiary
 status: complete
-related: [index.md, plan/plan.md, desk/desk.md, interview/interview.md]
+related: [index.md, plan.md, raw/raw-docs/desk/2026-10-10-desk-research-findings.md, raw/raw-docs/interview/2026-10-10-interview-script.md]
 ---
 
 # Redesigning grocery delivery

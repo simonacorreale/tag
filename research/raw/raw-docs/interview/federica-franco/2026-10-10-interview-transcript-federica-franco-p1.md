@@ -1,21 +1,21 @@
 ---
 title: "Interview transcript — Federica (P1)"
 date: 2026-10-10
-activity: transcript
+activity: interview
 source: "user interview, automatic transcription (TurboScribe)"
 author: "Simona Correale"
-channel: video call
+channel: video
 method: semi-structured interview
 tags: [interview, interview-transcript, grocery-delivery, p1, raw]
 confidence: medium
 grade: primary
-status: raw
-related: [index.md, plan/plan.md, interview/interview.md, interview/interview-note-p1.md]
+status: needs-review
+related: [index.md, plan.md, raw/raw-docs/interview/2026-10-10-interview-script.md, notes/2026-10-10-interview-note-federica-franco-p1.md]
 ---
 
 # Interview transcript — Federica (P1)
 
-Raw automatic transcription, in Italian, never edited. Speakers are not labelled and brand names are misspelled by the transcription tool (for example "Estelunga", "S Lunga" for Esselunga). Two recordings: the first stops after question 9 of the guide, the second covers questions 11 to 22. The version mapped to the guide questions is in [interview.md](interview.md).
+Raw automatic transcription, in Italian, never edited. Speakers are not labelled and brand names are misspelled by the transcription tool (for example "Estelunga", "S Lunga" for Esselunga). Two recordings: the first stops after question 9 of the guide, the second covers questions 11 to 22. The version mapped to the guide questions is in [2026-10-10-interview-note-federica-franco-p1.md](../../../../notes/2026-10-10-interview-note-federica-franco-p1.md).
 
 ---
 

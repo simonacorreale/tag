@@ -4,29 +4,29 @@ date: 2026-10-10
 activity: interview
 source: "user interviews"
 author: "Simona Correale"
-channel: in-person / video call
+channel: video
 method: semi-structured interview
 tags: [interview, interview-guide, grocery-delivery, basket-building, substitutions, order-receiving, delivery-windows, freshness, contradiction]
 confidence: low
 grade: secondary
-status: in-progress
-related: [index.md, brief.md, plan/plan.md, desk/desk.md, interview/interview-note-federica-franco-p1.md, interview/interview-transcript-p1.md]
+status: draft
+related: [index.md, brief.md, plan.md, raw/raw-docs/desk/2026-10-10-desk-research-findings.md, notes/2026-10-10-interview-note-federica-franco-p1.md, raw/raw-docs/interview/federica-franco/2026-10-10-interview-transcript-federica-franco-p1.md]
 ---
 
 # Interviews — Redesigning grocery delivery
 
-Interview guide and record for the 3 interviews in the [research plan](plan.md). One interview has been held so far: P1 Federica Franco, on 2026-10-10. It covers the whole guide in two recordings, except questions 7, 10, 12, 14, 17 and 18, which were not asked.
+Interview guide and record for the 3 interviews in the [research plan](../../../plan.md). One interview has been held so far: P1 Federica Franco, on 2026-10-10. It covers the whole guide in two recordings, except questions 7, 10, 12, 14, 17 and 18, which were not asked.
 
-The interview was held in Italian. Everything in this file is in English: quotes and answers are translations. The original Italian wording is in the raw transcript, [interview-transcript.md](interview-transcript.md).
+The interview was held in Italian. Everything in this file is in English: quotes and answers are translations. The original Italian wording is in the raw transcript, [interview-transcript.md](federica-franco/2026-10-10-interview-transcript-federica-franco-p1.md).
 
 ## Objective
 
-Understand how people who do a large weekly grocery shop online experience the three moments in the [brief](brief.md) — building the basket, handling substitutions, receiving the order — and find out which one causes the most trouble.
+Understand how people who do a large weekly grocery shop online experience the three moments in the [brief](../../../brief.md) — building the basket, handling substitutions, receiving the order — and find out which one causes the most trouble.
 
 ## Format
 
 - Semi-structured, 30 to 40 minutes, one participant at a time.
-- 3 participants, one per day from 2026-10-12 to 2026-10-14. Profiles are in [plan.md](plan.md).
+- 3 participants, one per day from 2026-10-12 to 2026-10-14. Profiles are in [plan.md](../../../plan.md).
 - Ask about the last real order, not about habits in general.
 - Record with consent. Anonymise with participant codes.
 
@@ -87,7 +87,7 @@ Understand how people who do a large weekly grocery shop online experience the t
 
 ### Hypotheses from desk research to probe
 
-  Finding IDs refer to [desk.md](desk.md).
+  Finding IDs refer to [desk.md](../desk/2026-10-10-desk-research-findings.md).
 
 | ID | Hypothesis | Desk finding |
 |----|------------|--------------|
@@ -157,11 +157,11 @@ Provisional: based on one interview (P1). To be revised after P2 and P3. "Streng
 4. Prevention ranks above repair for her: stock shown in the app should match the store that picks the order.
 5. One gap remains for all three interviews: how and when the shopper learns about a substitution. Ask question 12 explicitly to P2 and P3.
 
-These rest on one participant who is recalling a past habit. They agree with the desk research on H1 and differ on H2 (see [desk.md](desk.md), D7 and D11).
+These rest on one participant who is recalling a past habit. They agree with the desk research on H1 and differ on H2 (see [desk.md](../desk/2026-10-10-desk-research-findings.md), D7 and D11).
 
 ## Signals
 
-- Shared pain point, substitutions: `interview/interview-note-federica-franco-p1.md` is the full record of the P1 interview that every row of the synthesis above rests on.
-- Shared pain point, substitutions: `desk/desk.md` supplies findings D7, D9, D11, D12, D18 and D19, on which hypotheses H1 to H4 are built.
-- Contradiction with `desk/desk.md`: the synthesis says substitution consent at Esselunga is one mandatory tick box with no way to refuse; the desk competitor table says Esselunga a Casa offers an upfront choice to accept substitutions or not. Both versions are kept.
-- Contradiction with `desk/desk.md`: insight 4 assumes the order is picked from a store; the desk competitor table says Esselunga a Casa controls freshness from a central warehouse. Both versions are kept.
+- Shared pain point, substitutions: `notes/2026-10-10-interview-note-federica-franco-p1.md` is the full record of the P1 interview that every row of the synthesis above rests on.
+- Shared pain point, substitutions: `raw/raw-docs/desk/2026-10-10-desk-research-findings.md` supplies findings D7, D9, D11, D12, D18 and D19, on which hypotheses H1 to H4 are built.
+- Contradiction with `raw/raw-docs/desk/2026-10-10-desk-research-findings.md`: the synthesis says substitution consent at Esselunga is one mandatory tick box with no way to refuse; the desk competitor table says Esselunga a Casa offers an upfront choice to accept substitutions or not. Both versions are kept.
+- Contradiction with `raw/raw-docs/desk/2026-10-10-desk-research-findings.md`: insight 4 assumes the order is picked from a store; the desk competitor table says Esselunga a Casa controls freshness from a central warehouse. Both versions are kept.

@@ -9,8 +9,8 @@ method: research planning
 tags: [plan, grocery-delivery, desk-research, interview, observation]
 confidence: medium
 grade: primary
-status: in-progress
-related: [index.md, brief.md, desk/desk.md, interview/interview.md]
+status: draft
+related: [index.md, brief.md, raw/raw-docs/desk/2026-10-10-desk-research-findings.md, raw/raw-docs/interview/2026-10-10-interview-script.md]
 ---
 
 # Research plan — Redesigning grocery delivery
@@ -34,11 +34,11 @@ By the end of the week the research must say which moment to design for and whic
 | RQ5 | How do people judge freshness when they cannot pick the product themselves? | Interviews, Observation 2 |
 | RQ6 | How do supermarket chains' online services handle the three moments today? | Desk research |
 
-Working hypothesis: substitutions are the moment with the most evidence of friction (see [desk.md](desk.md)). It stays open until the synthesis on 2026-10-15.
+Working hypothesis: substitutions are the moment with the most evidence of friction (see [desk.md](raw/raw-docs/desk/2026-10-10-desk-research-findings.md)). It stays open until the synthesis on 2026-10-15.
 
 ## Desk research
 
-Output: [desk.md](desk.md). Status: first pass done on 2026-10-10, needs review.
+Output: [desk.md](raw/raw-docs/desk/2026-10-10-desk-research-findings.md). Status: first pass done on 2026-10-10, needs review.
 
 Remaining work, limited to one day:
 
@@ -50,7 +50,7 @@ Not in this week: a full competitor benchmark, and research on the gaps listed i
 
 ## Interviews
 
-Output: [interview.md](interview.md). Status: guide ready, no interviews held.
+Output: [interview.md](raw/raw-docs/interview/2026-10-10-interview-script.md). Status: guide ready, no interviews held.
 
 - 3 semi-structured interviews, 30 to 40 minutes each, one per day.
 - All three shop online for a large, recurring grocery basket at least twice a month.

@@ -1,8 +1,8 @@
 ---
 title: "Desk research — Redesigning grocery delivery"
 date: 2026-10-10
-activity: desk
-source: "web sources, see Sources section"
+activity: desk-research
+source: "web sources, see raw-docs/desk/competitors/sources.md"
 author: "Simona Correale"
 channel: web
 method: desk research
@@ -10,12 +10,12 @@ tags: [desk-research, grocery-delivery, substitutions, order-receiving, delivery
 confidence: medium
 grade: tertiary
 status: complete
-related: [index.md, brief.md, plan/plan.md, interview/interview.md, interview/interview-note-federica-franco-p1.md]
+related: [index.md, brief.md, plan.md, raw/raw-docs/interview/2026-10-10-interview-script.md, notes/2026-10-10-interview-note-federica-franco-p1.md, raw/raw-docs/desk/competitors/2026-10-10-desk-research-competitor-evidence.md, raw/raw-docs/desk/competitors/2026-10-10-desk-research-sources.md]
 ---
 
 # Desk research — Redesigning grocery delivery
 
-Secondary evidence on the three moments named in the [brief](brief.md): building the basket, handling substitutions, receiving the order. The desk research part of the [research plan](plan.md).
+Secondary evidence on the three moments named in the [brief](../../../brief.md): building the basket, handling substitutions, receiving the order. The desk research part of the [research plan](../../../plan.md).
 
 Scope: online grocery delivery by supermarket chains in general. Findings about a single chain are labelled with its name.
 
@@ -79,14 +79,7 @@ Scope: online grocery delivery by supermarket chains in general. Findings about 
 
 ## Competitor practice
 
-To be completed on 2026-10-11: a first-hand walkthrough of one chain's own service, and two more services from their help pages. Include at least one marketplace. The names below are candidates, not a fixed list.
-
-| Service | Basket building | Substitution control | Substitution notice | Delivery windows | At the door |
-|---------|-----------------|----------------------|---------------------|------------------|-------------|
-| Esselunga a Casa (Direct chain) | Wide selection from store catalogue; direct freshness control from central warehouse | Upfront choice: accept substitutions (selected by the picker) or do not substitute | Notification via email/app once the receipt/order is finalised | Precise 2-hour windows (e.g. 10:00–12:00) bookable in advance | Doorstep/floor delivery via proprietary refrigerated vans |
-| Coop / EasyCoop (Second chain) | Catalogue focused on Coop own-brand and leading national brands | Handled at checkout: shopper can authorise picker to choose equivalent items | Summary in digital receipt sent via email prior to delivery | Flexible windows (1-hour slots with a surcharge) or standard 2-hour slots | Dedicated staff, delivery to the floor (free or with surcharge for upper floors without lift) |
-| Everli (Marketplace) | Depends on chosen store; catalogue mirrors the local partner's shelves | Human interaction: Personal Shopper calls or chats in real time from store if item is missing | Real-time push notification or phone call while Personal Shopper is picking | 1- or 2-hour windows, often with same-day slots available | Delivered by Personal Shopper using personal vehicle (service quality varies) |
-| Tesco / Ocado (International reference) | Highly integrated (Ocado operates automated robotic warehouses rather than brick-and-mortar stores) | Predictive algorithms suggest best match; Ocado maintains very low missing/error rates (<1%) | Immediate notification via digital receipt on driver's handheld device or in-app | Precise delivery windows, down to 1-hour slots | Doorstep delivery; Ocado vans feature tri-temperature storage (ambient, chilled, frozen) |
+Moved to [evidence.md](competitors/2026-10-10-desk-research-competitor-evidence.md), with one file per competitor in [competitors/](competitors/).
 
 ## Implications for the design
 
@@ -95,15 +88,15 @@ To be completed on 2026-10-11: a first-hand walkthrough of one chain's own servi
 - Dietary and household constraints must limit what can be substituted (D15).
 - The time of notice matters: before delivery the shopper can still decide, at the door they can only accept or refuse (D16, D18, D19).
 
-These are hypotheses to test in the [interviews](interview.md), not conclusions.
+These are hypotheses to test in the [interviews](../interview/2026-10-10-interview-script.md), not conclusions.
 
 ## Signals
 
-- Shared pain point, substitutions: `interview/interview-note-federica-franco-p1.md` reports the same pattern as D11 and D12 from one shopper, who accepts most substitutes, protects a few items, and judges a substitute by its brand.
-- Shared pain point, substitutions: `interview/interview.md` builds its hypotheses H1 to H4 on D7, D9, D11, D12, D18 and D19, and its synthesis reports how the first interview answers them.
-- Shared pain point, stock accuracy: D8 (near real-time stock data) matches the fix P1 asks for in `interview/interview-note-federica-franco-p1.md`, an app whose stock follows the store.
-- Contradiction with `interview/interview-note-federica-franco-p1.md` and `interview/interview.md`: the competitor table says Esselunga a Casa offers an upfront choice to accept substitutions or not; P1 says the tick box authorising substitutions was mandatory, with no way to refuse. Both versions are kept. The table gives no source; P1 is recalling a past version of the app.
-- Contradiction with `interview/interview-note-federica-franco-p1.md` and `interview/interview.md`: the competitor table says Esselunga a Casa controls freshness from a central warehouse; P1 says the order is picked from the nearest store. Both versions are kept.
+- Shared pain point, substitutions: `notes/2026-10-10-interview-note-federica-franco-p1.md` reports the same pattern as D11 and D12 from one shopper, who accepts most substitutes, protects a few items, and judges a substitute by its brand.
+- Shared pain point, substitutions: `raw/raw-docs/interview/2026-10-10-interview-script.md` builds its hypotheses H1 to H4 on D7, D9, D11, D12, D18 and D19, and its synthesis reports how the first interview answers them.
+- Shared pain point, stock accuracy: D8 (near real-time stock data) matches the fix P1 asks for in `notes/2026-10-10-interview-note-federica-franco-p1.md`, an app whose stock follows the store.
+- Contradiction with `notes/2026-10-10-interview-note-federica-franco-p1.md` and `raw/raw-docs/interview/2026-10-10-interview-script.md`: the competitor table says Esselunga a Casa offers an upfront choice to accept substitutions or not; P1 says the tick box authorising substitutions was mandatory, with no way to refuse. Both versions are kept. The table gives no source; P1 is recalling a past version of the app.
+- Contradiction with `notes/2026-10-10-interview-note-federica-franco-p1.md` and `raw/raw-docs/interview/2026-10-10-interview-script.md`: the competitor table says Esselunga a Casa controls freshness from a central warehouse; P1 says the order is picked from the nearest store. Both versions are kept.
 
 ## Gaps
 
@@ -118,20 +111,4 @@ These are hypotheses to test in the [interviews](interview.md), not conclusions.
 
 ## Sources
 
-| Ref | Source | Type |
-|-----|--------|------|
-| S1 | ItaliaOggi, "E-commerce, l'esperienza paga" — https://www.italiaoggi.it/marketing-e-media/marketing/e-commerce-lesperienza-paga-ac0bdv38 | Press, reporting Politecnico di Milano data |
-| S2 | Pagamenti Digitali, "eCommerce B2c nel 2026" — https://www.pagamentidigitali.it/ecommerce/ecommerce-b2c-nel-2026-litalia-vale-426-mld/ | Press, reporting Politecnico di Milano data |
-| S3 | Il Sole 24 Ore (English edition) — https://en.ilsole24ore.com/art/the-secrets-of-the-italian-ecom-how-much-it-is-worth-and-what-they-buy-online-AIo4Yb9C | Press |
-| S4 | Businessonline, Esselunga online grocery coverage — https://www.businessonline.it/news/esselunga-la-spesa-online-su-internet-arriva-in-8-regioni-funzionamento-copertura-e-costi_n81799.html | Press |
-| S5 | Scatti di Gusto, Esselunga lockers — https://www.scattidigusto.it/locker-esselunga-cosa-sono-e-come-si-ritira-la-spesa-fatta-da-casa | Press |
-| S6 | Baymard Institute, grocery substitutions research article — https://baymard.com/research-articles/grocery-substitutions | UX research, usability testing |
-| S7 | Hoang and Breugelmans, out-of-stock products and substitutions in online grocery retailing (summary) — https://www.mecalux.com/logistics-articles/effect-substitutions-online-retailing | Summary of academic research |
-| S8 | RetailWire, "Substitutions improved online grocery" — https://retailwire.com/discussion/substitutions-improved-online-grocery | Trade press, cites vendor surveys |
-| S9 | Which?, supermarket substitutions survey — https://www.which.co.uk/policy-and-insight/article/sanitary-towels-instead-of-sandwich-wraps-which-reveals-the-worst-supermarkets-for-substitutions-avmh87E2rQmk | Consumer survey |
-| S10 | Grocery Dive, substitution alerts — https://www.grocerydive.com/news/grocers-often-miss-chances-to-alert-shoppers-about-online-substitutions-su/622775/ | Trade press |
-| S11 | Money.it, Everli online grocery — https://www.money.it/Everli-spesa-online-come-funziona-costi-citta | Press |
-| S12 | GreenMe, best supermarkets for online grocery according to Altroconsumo — https://www.greenme.it/lifestyle/spesa-sostenibile/migliori-supermercati-spesa-online/ | Press, reporting a consumer association survey |
-| S13 | Corriere della sera - https://www.corriere.it/economia/consumi/25_novembre_23/in-italia-e-boom-per-gli-acquisti-online-la-spesa-digitale-vale-66-miliari-e-commerce-a-273-e-abbonamenti-pay-tv-triplicati-in-d999fcb4-826f-4a5f-9d93-ce83527e8xlk.shtml|
-| S14 | Consorzio netcom - https://www.consorzionetcomm.it/15-milioni-di-italiani-comprano-online-foodgrocery-la-spesa-alimentare-guida-per-numero-di-utenti-con-99-milioni-di-acquirenti/|
-
+Moved to [sources.md](competitors/2026-10-10-desk-research-sources.md).

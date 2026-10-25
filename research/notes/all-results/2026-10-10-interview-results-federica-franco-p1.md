@@ -1,21 +1,21 @@
 ---
 title: "Interview results — P1 Federica Franco"
-date: 2026-10-12
-activity: results
+date: 2026-10-10
+activity: interview
 source: "interview note and transcript of P1"
 author: "Simona Correale"
-channel: video call
+channel: video
 method: semi-structured interview
 tags: [interview, grocery-delivery, p1, basket-building, substitutions, order-receiving, delivery-windows, freshness]
 confidence: medium
 grade: secondary
 status: complete
-related: [index.md, plan/plan.md, interview/interview.md, interview/interview-note-federica-franco-p1.md, interview/interview-transcript-p1.md]
+related: [index.md, plan.md, raw/raw-docs/interview/2026-10-10-interview-script.md, notes/2026-10-10-interview-note-federica-franco-p1.md, raw/raw-docs/interview/federica-franco/2026-10-10-interview-transcript-federica-franco-p1.md]
 ---
 
 # Interview results — P1 Federica Franco
 
-What the interview with P1 Federica Franco (2026-10-10, video call) shows, moment by moment. Built from two files only: the note `interview/interview-note-federica-franco-p1.md` and the transcript `interview/interview-transcript-p1.md`.
+What the interview with P1 Federica Franco (2026-10-10, video call) shows, moment by moment. Built from two files only: the note `notes/2026-10-10-interview-note-federica-franco-p1.md` and the transcript `raw/raw-docs/interview/federica-franco/2026-10-10-interview-transcript-federica-franco-p1.md`.
 
 Every result names the guide question it comes from (Q1 to Q22) and the recording (R1 or R2) where the words can be checked. Quotes are English translations of the Italian transcript.
 
@@ -73,7 +73,7 @@ Substitutions are the moment that hurts. She named them without being asked, as 
 
 ## Answers to the research questions
 
-Questions are those of `plan/plan.md`.
+Questions are those of `plan.md`.
 
 | ID | Question | What P1 shows |
 |----|----------|---------------|
@@ -82,7 +82,7 @@ Questions are those of `plan/plan.md`.
 | RQ3 | What makes a substitution acceptable? | Low price and no taste preference. Unacceptable when she pays a lot or cares about the taste (S4, S5, S6). |
 | RQ4 | How do people choose a window and what goes wrong on delivery day? | She books days ahead to get the window. Nothing went wrong on the day (R1, R2, R3). |
 | RQ5 | How do people judge freshness? | She avoids the question: she buys fresh in store, online only pre-packed (B7, R4, R5). |
-| RQ6 | How do services handle the three moments? | Not an interview question. See `desk/desk.md`. |
+| RQ6 | How do services handle the three moments? | Not an interview question. See `raw/raw-docs/desk/2026-10-10-desk-research-findings.md`. |
 
 ## Hypotheses
 

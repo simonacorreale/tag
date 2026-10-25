@@ -1,16 +1,16 @@
 ---
 title: "Interview notes — P1 Federica Franco"
 date: 2026-10-10
-activity: notes
+activity: interview
 source: "user interview"
 author: "Simona Correale"
-channel: video call
+channel: video
 method: semi-structured interview
 tags: [interview, interview-note, grocery-delivery, p1, basket-building, substitutions, order-receiving, delivery-windows, freshness, contradiction]
 confidence: high
 grade: primary
 status: complete
-related: [index.md, plan/plan.md, desk/desk.md, interview/interview.md, interview/interview-transcript-p1.md, interview/interview-results-federica-franco-p1.md]
+related: [index.md, plan.md, raw/raw-docs/desk/2026-10-10-desk-research-findings.md, raw/raw-docs/interview/2026-10-10-interview-script.md, raw/raw-docs/interview/federica-franco/2026-10-10-interview-transcript-federica-franco-p1.md, notes/all-results/2026-10-10-interview-results-federica-franco-p1.md]
 ---
 
 # Interview notes — P1 Federica Franco
@@ -66,12 +66,12 @@ related: [index.md, plan/plan.md, desk/desk.md, interview/interview.md, intervie
 
 ## Signals
 
-- Shared pain point, substitutions: `desk/desk.md` reports the same pattern at scale in D11 and D12, where shoppers accept most substitutes, protect a few items, and judge a substitute by its brand.
-- Shared pain point, substitutions: `interview/interview.md` turns this interview into the cross-interview synthesis and tests it against hypotheses H1 to H4.
-- Shared pain point, stock accuracy: the fix P1 asks for, an app whose stock follows the store, matches finding D8 in `desk/desk.md`.
-- Contradiction with `desk/desk.md`: P1 says the tick box authorising substitutions was mandatory, with no way to refuse; the desk competitor table says Esselunga a Casa offers an upfront choice to accept substitutions or not. Both versions are kept. P1 is recalling a past version of the app; the table gives no source.
-- Contradiction with `desk/desk.md`: P1 says the order is picked from the nearest store; the desk competitor table says Esselunga a Casa controls freshness from a central warehouse. Both versions are kept.
-- Source: this note derives from the transcript `interview/interview-transcript-p1.md`.
+- Shared pain point, substitutions: `raw/raw-docs/desk/2026-10-10-desk-research-findings.md` reports the same pattern at scale in D11 and D12, where shoppers accept most substitutes, protect a few items, and judge a substitute by its brand.
+- Shared pain point, substitutions: `raw/raw-docs/interview/2026-10-10-interview-script.md` turns this interview into the cross-interview synthesis and tests it against hypotheses H1 to H4.
+- Shared pain point, stock accuracy: the fix P1 asks for, an app whose stock follows the store, matches finding D8 in `raw/raw-docs/desk/2026-10-10-desk-research-findings.md`.
+- Contradiction with `raw/raw-docs/desk/2026-10-10-desk-research-findings.md`: P1 says the tick box authorising substitutions was mandatory, with no way to refuse; the desk competitor table says Esselunga a Casa offers an upfront choice to accept substitutions or not. Both versions are kept. P1 is recalling a past version of the app; the table gives no source.
+- Contradiction with `raw/raw-docs/desk/2026-10-10-desk-research-findings.md`: P1 says the order is picked from the nearest store; the desk competitor table says Esselunga a Casa controls freshness from a central warehouse. Both versions are kept.
+- Source: this note derives from the transcript `raw/raw-docs/interview/federica-franco/2026-10-10-interview-transcript-federica-franco-p1.md`.
 
 ## Interview record
 
@@ -152,7 +152,7 @@ related: [index.md, plan/plan.md, desk/desk.md, interview/interview.md, intervie
 
 #### P1 — Answers mapped to the guide
 
-Answers are English translations of what the participant said in Italian. Speech-to-text errors in the source are corrected (for example "Estelunga" and "S Lunga" to Esselunga) and the interviewer's side comments are removed. Nothing is added. Passages that could not be understood are marked [unclear]. For the exact original wording, see [interview-transcript.md](interview-transcript.md).
+Answers are English translations of what the participant said in Italian. Speech-to-text errors in the source are corrected (for example "Estelunga" and "S Lunga" to Esselunga) and the interviewer's side comments are removed. Nothing is added. Passages that could not be understood are marked [unclear]. For the exact original wording, see [interview-transcript.md](../raw/raw-docs/interview/federica-franco/2026-10-10-interview-transcript-federica-franco-p1.md).
 
 **Opening.** The interviewer explained the purpose and said there were no right or wrong answers. Consent to record is not audible in the recording.
 
