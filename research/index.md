@@ -21,3 +21,4 @@
 - 2026-10-25-interview-results-luca-volpi-p2.md — interview · complete · secondary · medium
 - 2026-10-25-features-from-touchpoints.md — interview · needs-review · secondary · medium
 - 2026-10-25-touchpoints-interview-desk.md — interview · needs-review · secondary · medium
+- 2026-10-25-user-stories-from-features.md — interview · needs-review · secondary · medium
